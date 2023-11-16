@@ -1,4 +1,4 @@
-- Contributor to many chess engines, such as [Stockfish](https://github.com/official-stockfish/Stockfish), [Alexandria](https://github.com/PGG106/Alexandria), [Stash](https://github.com/mhouppin/stash-bot) and [4ku](https://github.com/kz04px/4ku).
+- Contributor to many chess engines, such as [Stockfish](https://github.com/official-stockfish/Stockfish), [Alexandria](https://github.com/PGG106/Alexandria), [Stash](https://github.com/mhouppin/stash-bot), [4ku](https://github.com/kz04px/4ku) and [smol.cs](https://github.com/GediminasMasaitis/Chess-Challenge-Submission)
 
 <p align="center">
     <img style="height: 150px" src="https://github-readme-stats.vercel.app/api?username=cj5716&show_icons=true"> 
