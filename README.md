@@ -1,6 +1,5 @@
 - Chess engine dev
-- Co-author and co-maintainer of [Alexandria](https://github.com/PGG106/Alexandria)
-- Co-author of [smol.cs](https://github.com/GediminasMasaitis/Chess-Challenge-Submission/tree/submission)
+- Co-authored [Alexandria](https://github.com/PGG106/Alexandria), and [smol.cs](https://github.com/GediminasMasaitis/Chess-Challenge-Submission/tree/submission)
 - Contributed to [Stockfish](https://github.com/official-stockfish/Stockfish), [4ku](https://github.com/kz04px/4ku) and [Stash](https://github.com/mhouppin/stash-bot)
 
 <p align="center">
