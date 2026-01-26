@@ -4,8 +4,10 @@
     - Currently contributing to [Reckless](https://github.com/codedeliveryservice/Reckless/). (future top1 incoming? 👀)
 - Languages
     - C++ - native or bilingual proficiency
-    - Rust - limited working proficiency
-    - Python - limited working proficiency
+    - Java - limited working proficiency
+    - Rust - elementary proficiency
+    - Python - elementary proficiency
+    - Kotlin - elementary proficiency
 
 <p align="center">
     <img style="height: 150px" src="https://github-readme-stats-rouge-ten-78.vercel.app/api?username=cj5716&show_icons=true&text_color=EB3232&icon_color=EB3232&title_color=EB3232&bg_color=00000000"> 
