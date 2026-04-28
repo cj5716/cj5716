@@ -1,7 +1,9 @@
 - Chess engine developer
-    - Co-authored [Alexandria](https://github.com/PGG106/Alexandria), [4ku](https://github.com/kz04px/4ku) and [smol.cs](https://github.com/GediminasMasaitis/Chess-Challenge-Submission/tree/submission)
-    - Contributed to [Stockfish](https://github.com/official-stockfish/Stockfish), [Stash](https://github.com/mhouppin/stash-bot) and [Ethereal](https://github.com/AndyGrant/Ethereal)
+    - Co-authored [Alexandria](https://github.com/PGG106/Alexandria), [4ku](https://github.com/kz04px/4ku) and [smol.cs](https://github.com/GediminasMasaitis/Chess-Challenge-Submission/tree/submission).
+    - Contributed to [Stockfish](https://github.com/official-stockfish/Stockfish), [Stash](https://github.com/mhouppin/stash-bot), [Ethereal](https://github.com/AndyGrant/Ethereal) and [c4ke](https://github.com/citrus610/c4ke).
     - Currently contributing to [Reckless](https://github.com/codedeliveryservice/Reckless/). (future top1 incoming? 👀)
+- Informatics Olympiad / Competitive Programming
+    - Current main focus
 - Languages
     - C++ - native or bilingual proficiency
     - Java - limited working proficiency
